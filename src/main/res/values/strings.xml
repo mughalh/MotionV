@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MotionV</string>
+    <string name="accelerometer_data_format">Accelerometer: X=%1$.2f, Y=%2$.2f, Z=%3$.2f</string>
+    <string name="gyroscope_data_format">Gyroscope: X=%1$.2f, Y=%2$.2f, Z=%3$.2f</string>
+</resources>
