@@ -1,3 +1,6 @@
+![Alt text](./icon.png)
+
+
 MotionV is an Android application that transforms your Android device into a Bluetooth Low Energy (BLE) peripheral. It reads data from the device's accelerometer and gyroscope sensors and broadcasts this data over BLE to any connected central device.
 
 This project serves as an example of how to implement a BLE peripheral service on Android, handle sensor data, and manage BLE connections and characteristics.
